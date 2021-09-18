@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Allen Chang's Website
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,6 +7,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Why I love CS 193
+- I will learn the skills I need for CS and DS
+- It is a fun class
+- I'll meet alot of new people
 
 ```markdown
 Syntax highlighted code block
